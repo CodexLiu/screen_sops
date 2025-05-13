@@ -1,0 +1,251 @@
+                    Confidential
+
+       Title of SOP
+
+       Platform Name
+
+Any required subtitle such as
+an adapted version of the SOP
+to a specific matrix
+
+        biorbis
+---
+
+                                             MOLECULES THAT TRANSFORM THE FUTURE
+Approvals
+
+NOTE: For the purposes of template compliance review, completion of this section (Approvals and Revision History) may be disregarded.
+
+                Full name(s)      Date        Signature
+Authors         Full Name(s)      DD/MM/YYYY
+
+Reviewer 1      Platform leader   DD/MM/YYYY
+                name
+Reviewer 2      Vivek Sharma      DD/MM/YYYY
+
+Reviewer 3      Alice Dien        DD/MM/YYYY
+
+Reviewer 4      External          DD/MM/YYYY
+
+Approver        Raquel Madureira  DD/MM/YYYY
+
+Revision History
+
+Versio  Date      Author(s)         Description of change(s)
+n
+01      DD/MM/    Full Name(s)      Example: New Document
+        YYYY
+
+     Confidential information – Restricted distribution      1
+---
+
+Contents
+      1.   Overview................................................................................................... 3
+        1.1.                Introduction and purpose...................................................................3
+        1.2.                      Scientific principles and main reactions.............................................3
+      2.  Scope........................................................................................................4
+        2.1.          SOP Applications.................................................................................4
+        2.2.      Exceptions.......................................................................................... 4
+      3.   Definitions.................................................................................................5
+      4.             Materials and equipment...........................................................................6
+        4.1      Materials.............................................................................................6
+        4.2         Equipment..........................................................................................6
+      5.              Reagents and preparation.........................................................................7
+      6.          Sample preparation...................................................................................8
+      7.    Procedure..................................................................................................9
+      8.      Data analysis...........................................................................................10
+      9.              Safety and waste disposal.......................................................................11
+      10.                    Troubleshooting and maintenance..........................................................12
+        10.1                 Troubleshooting instructions.............................................................12
+        10.2                 Maintenance instructions.................................................................12
+      11.           Bibliographic references..........................................................................13
+      12.   Annexes...................................................................................................14
+
+       Confidential information – Restricted distribution                       2
+---
+
+
+1. Overview
+Provide a summary of the procedure, scientific basis, and its importance to the lab's
+goals with example product applications.
+
+1.1.  Introduction and purpose
+Explain what the assay or experiment does.
+
+1.2.  Scientific principles and main reactions
+Describe the scientific principles and main reactions (X reacts with Y to result in
+yellow color to be measured at ABC nm).
+
+      ADD ANY ELEMENTS YOU FEEL RELEVANT
+      Example of table
+      Table 1. Example of table format to be used
+
+       AS       ASD
+ D
+       AS       ASDASD
+ D
+                ASDADate: ASDASD
+       D2       ASDASD ASD
+
+                ASDASD: ASD
+       D3       Report ASDASDAS
+
+                ASDASD: 22ASDASDASD
+
+      Confidential information – Restricted distribution          3
+---
+
+2. Scope
+Define the applicability and limitations of the procedure to set clear expectations.
+
+2.1.  SOP Applications
+Specify what the SOP covers.
+
+2.2.  Exceptions
+Also, specify if there are any exceptions (some substrates that don't work, if any),
+sample conditions that this SOP doesn't cover. Make a note of any specific
+extraction step for a particular substrate (like milk vs other matrix for %DH).
+
+      Confidential information – Restricted distribution              4
+---
+
+3. Definitions
+Define acronyms, abbreviations, or technical terminology used within the SOP. Use
+the following format:
+     Bolded word: Definition
+
+      Confidential information – Restricted distribution           5
+---
+
+4. Materials and equipment
+List all required items to ensure the procedure can be performed without delay and
+that anyone following this SOP is ready with everything they need before starting
+the steps.
+
+4.1    Materials
+   a.  Include chemicals, prepared reagents, consumables, and their purity/grade
+       (e.g. L-Leucine, ≥98% purity, Sigma-Aldrich L8912). Please be detailed for no
+       confusion as chemicals sometimes can be similar in formula but different in
+       reaction.
+   b.  Provide catalog numbers and supplier's name for traceability and repurchase.
+   c.  Group into subcategories (e.g. Reagents and Consumables) for clarity.
+   d.  Note storage conditions (e.g. Store TNBS at 4°C).
+
+4.2  Equipment
+   a.  Specify model numbers, specifications, or capabilities (e.g., Microcentrifuge,
+       5,000 rpm, refrigerated at temperature XX).
+
+   b.  Specify the bench scale accuracy needed for any specific substrate being
+       weighed (e.g. if precision scale is needed vs bench scale).
+
+       Confidential information – Restricted distribution                        6
+---
+
+5. Reagents and preparation
+If applicable, provide step-by-step instructions for preparing solutions to ensure
+consistency and accuracy.
+
+      a.  List each reagent  needed   for the  assay  or  experiment  with   clear
+          preparation steps.
+      b.  Specify quantities, concentrations, and equipment (e.g. Weigh 13 mg L-
+          Leucine using an analytical balance).
+      c.  Include handling and mixing instructions (e.g. Vortex for 30 seconds).
+      d.  Note storage conditions and shelf life (e.g. Store at -20°C for 6 months).
+          Add that discard after 3 months or a similar note if not a stable reagent.
+      e.  Highlight safety precautions (e.g. Handle TNBS in a fume hood).
+
+       Confidential information – Restricted distribution                      7
+---
+
+6. Sample preparation
+Explain how to prepare samples or substrate to ensure they are suitable for the
+assay/experiment.
+      a.  Describe sample type (e.g. Protein hydrolysates from soy fermentation).
+      b.  Include steps for thawing, mixing, or centrifugation (e.g. Centrifuge at
+          5,000 rpm for 5 min).
+      c.  Specify dilutions if needed (e.g. Dilute 1:10 with ultrapure water).
+      d.  Note storage conditions for unused samples.
+      e.  Address potential interferences (e.g. decant the supernatant for use and
+          discard the pellet or remove particulates to avoid absorbance errors).
+
+       Confidential information – Restricted distribution                        8
+---
+
+7. Procedure
+Provide a         step-by-step guide to performing the assay/experiment, ensuring
+       reproducibility.
+              a.  Break into numbered steps with clear, actionable instructions (e.g. Pipette
+                  50 μL sample into wells).
+              b.  Specify equipment settings (e.g. Incubate at 50°C for 1 hour).
+              c.  Include timing and order of operations (e.g. Add TNBS last to start
+                  reaction).
+              d.  Note replicates or controls (e.g. Run standards in triplicate).
+              e.  Use subheadings for complex protocols (e.g. Standard Curve Preparation,
+                  Assay Steps).
+
+       Confidential information – Restricted distribution                       9
+---
+
+8. Data analysis
+Explain step by step how to process data and interpret results to derive meaningful
+conclusions.
+       a.  Describe calculations (e.g. Subtract blank absorbance from all readings).
+       b.  Include formulas with definitions (e.g., DH% = 100 × (Lt / Lmax)).
+       c.  Specify software/tools (e.g. Use Excel for linear regression).
+       d.  Note acceptance criteria (e.g. R² > 0.98 for standard curve).
+       e.  Provide an example calculation or table.
+
+       Confidential information – Restricted distribution                          1
+                                                                            0
+---
+
+9. Safety and waste disposal
+Ensures  safe execution  and  proper  disposal to  protect personnel  and  the
+environment.
+      a.  List hazards, if any (e.g. TNBS is a skin irritant).
+      b.  Specify PPE (e.g. Wear gloves, goggles).
+      c.  Detail waste disposal (e.g. Dispose of TNBS in chemical waste).
+      d.  Include spill response (e.g. Neutralize HCl spills with sodium bicarbonate).
+      e.  Reference lab safety protocols or regulations (e.g. EPA).
+
+       Confidential information – Restricted distribution                   1
+                                                                      1
+---
+
+10. Troubleshooting and maintenance
+
+10.1 Troubleshooting instructions
+      This section helps users diagnose and resolve common issues to maintain
+      assay reliability. Add troubleshooting instructions:
+      a.  List potential problems and causes (e.g. High blank absorbance:
+          Contaminated buffer or very absorbance: sample thaw too long and active
+          enzyme).
+      b.  Provide solutions (e.g. Prepare fresh buffer).
+      c.  Cover equipment, reagents, and user errors.
+      d.  Document the deviations for future users.
+
+10.2 Maintenance instructions
+      This section outlines routine tasks to ensure equipment and reagents remain
+      in optimal condition.
+
+            a.  Provide a maintenance schedule (e.g., Calibrate pipettes weekly,
+                etc.)
+            b.  List specific tasks (e.g., clean reusable glassware with detergent,
+                rinse thoroughly with deionized water.)
+
+       Confidential information – Restricted distribution                        1
+                                                                          2
+---
+
+11. Bibliographic references
+Cite sources for methods or standards to validate the procedure.
+
+      Confidential information – Restricted distribution          1
+                                                            3
+---
+
+12. Annexes
+Add any additional information relevant for this SOP.
+
+      Confidential information – Restricted distribution          1
+                                                            4
